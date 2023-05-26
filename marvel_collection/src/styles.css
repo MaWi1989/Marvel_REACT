@@ -1,0 +1,9 @@
+*,*:before,*::after{
+    padding: 10;
+    margin: 10;
+    box-sizing: inherit;
+}
+
+.logo {
+    width: 10vw;
+}
